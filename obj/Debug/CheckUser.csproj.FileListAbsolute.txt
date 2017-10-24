@@ -12,3 +12,4 @@ C:\Users\ghost\Documents\Visual Studio 2017\Projects\CheckUser\CheckUser\obj\Deb
 C:\Users\ghost\Documents\Visual Studio 2017\Projects\CheckUser\CheckUser\obj\Debug\CheckUser.F_HOME.resources
 C:\Users\ghost\Documents\Visual Studio 2017\Projects\CheckUser\CheckUser\obj\Debug\CheckUser.F_REGISTER.resources
 C:\Users\ghost\Documents\Visual Studio 2017\Projects\CheckUser\CheckUser\obj\Debug\CheckUser.F_LOGIN.resources
+C:\Users\ghost\Documents\Visual Studio 2017\Projects\CheckUser\CheckUser\obj\Debug\CheckUser.csprojResolveAssemblyReference.cache
