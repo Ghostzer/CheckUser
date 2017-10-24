@@ -1,8 +1,7 @@
 ﻿using MySql.Data.MySqlClient;
 using System;
-using System.Windows.Forms;
 
-    class Db
+class Db
     {
 
     string server = "localhost";
